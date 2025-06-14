@@ -156,11 +156,7 @@ Open and run any of the following for testing:
 - `human-eyes-detection-open-close_Final.ipynb`
 - `human-mouth-detection-yawn-no_yawn_Final.ipynb`
 
-```bash
-python rtddd/main.py
-```
-
-> Ensure that the `model/` directory contains the trained EfficientNetB0 models.
+> Ensure the `model/` directory contains the trained EfficientNetB0 models.
 
 ---
 
