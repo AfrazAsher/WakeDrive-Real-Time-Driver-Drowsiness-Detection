@@ -1,0 +1,50 @@
+# === Custom Dependency Folders ===
+fyp_env/
+rtddd/
+
+# === Ignore this specific folder ===
+Not-In-Use-files/
+
+# === Common .gitignore rules ===
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode
+.vscode/
+
+# Build directories
+build/
+out/
+
+# IDEs
+.idea/
+*.sw?
+*.sublime*
+
+# Dependency directories
+bower_components/
+.venv/
+env/
+venv/
+
+# Coverage files
+coverage/
+*.lcov
